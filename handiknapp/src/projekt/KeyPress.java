@@ -1,4 +1,4 @@
-package testPackage;
+package projekt;
 
 import static org.lwjgl.glfw.GLFW.GLFW_JOYSTICK_1;
 import static org.lwjgl.glfw.GLFW.glfwGetJoystickButtons;
@@ -7,7 +7,7 @@ import static org.lwjgl.glfw.GLFW.glfwInit;
 import static org.lwjgl.glfw.GLFW.glfwPollEvents;
 import static org.lwjgl.glfw.GLFW.*;
 import java.nio.ByteBuffer;
-import testPackage.MoveCursor;
+import projekt.MoveCursor;
 
 /**
  * KeyPress som flyttar muspekaren till bestämd position vid knapptryck.

@@ -1,9 +1,9 @@
-package testPackage;
+package projekt;
 
 import java.awt.Robot;
 import java.awt.AWTException;
 import java.awt.MouseInfo;
-import testPackage.MoveCursor;
+import projekt.MoveCursor;
 
 /**
  * Klass som används för att hitta x och y-koordinater 

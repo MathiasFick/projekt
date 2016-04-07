@@ -1,4 +1,4 @@
-package testPackage;
+package projekt;
 
 import org.lwjgl.*;
 import org.lwjgl.glfw.*;

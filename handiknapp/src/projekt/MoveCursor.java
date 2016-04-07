@@ -1,4 +1,4 @@
-package testPackage;
+package projekt;
 
 import java.awt.AWTException;
 import java.awt.Robot;
