@@ -1,4 +1,4 @@
-package testPackage;
+package projekt;
 
 import java.awt.Color;
 import java.awt.Dimension;
